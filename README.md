@@ -1,4 +1,4 @@
-### Olá ,meu nome é Gabriel Marques, tenho 17 anos, moro em Goiânia👋
+### Olá ,meu nome é Gabriel Marques do Prado Cezar👋
 ### Atualmente estou cursando ADS - Análise de Desenvolvimento de Sistemas 
 
 ## CURSOS - Senac GO 
